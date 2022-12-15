@@ -1004,7 +1004,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/counts-img.jpg") center center no-repeat;
+  background: url("https://via.placeholder.com/550x320/171717/cccccc?text=550x320") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
